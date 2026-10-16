@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"CashierScreen"},{"p":"<Unnamed>","l":"CashierScreen.MenuItem"},{"p":"<Unnamed>","l":"CashierScreen.OrderLine"}];updateSearchResults();
