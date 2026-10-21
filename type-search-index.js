@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"CashierScreen"},{"p":"<Unnamed>","l":"CashierScreen.MenuItem"},{"p":"<Unnamed>","l":"CashierScreen.OrderLine"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"CashierScreen"},{"p":"<Unnamed>","l":"Database"},{"p":"<Unnamed>","l":"LoginScreen"},{"p":"<Unnamed>","l":"ManagerScreen"},{"p":"<Unnamed>","l":"SeasonalMenuDialog"},{"p":"<Unnamed>","l":"UsageChartPanel"}];updateSearchResults();
